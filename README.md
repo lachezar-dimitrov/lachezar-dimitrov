@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a Tic-tac-toe project
 - 🌱 I’m currently learning BI concepts
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything
