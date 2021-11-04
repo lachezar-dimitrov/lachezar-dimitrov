@@ -10,4 +10,4 @@
 -->
 
 
-![Lucho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true)
+![Lucho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true)
