@@ -15,7 +15,8 @@
 
 ![Lucho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true)
 -->
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/anuraghazra/convoychat" style="margin-bottom: 30px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark" />
 </a>
 
@@ -26,4 +27,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lachezar_dimitrov&theme=dark" />
 </a>
-
