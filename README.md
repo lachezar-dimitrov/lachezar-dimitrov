@@ -15,16 +15,12 @@
 
 ![Lucho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true)
 -->
-<div style="display: flex; flex-direction: column;">
-  <a href="https://github.com/anuraghazra/convoychat" style="margin-bottom: 30px; width=95%;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark&card_width=445&langs_count=10" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&card_width=200&include_all_commits=true" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lachezar_dimitrov&theme=dark" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark&card_width=445&langs_count=10" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lachezar_dimitrov&theme=dark" />
+</a>
