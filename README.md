@@ -14,6 +14,16 @@
 <div width="50%">
 
 <!--START_SECTION:waka-->
+
+```text
+From: 25 November 2021 - To: 05 December 2022
+
+Total Time: 595 hrs 34 mins
+
+TypeScript       204 hrs 30 mins >>>>>>>>>----------------   34.34 %
+Other            201 hrs 59 mins >>>>>>>>-----------------   33.92 %
+```
+
 <!--END_SECTION:waka-->
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=monokai)
