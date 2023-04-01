@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2021 - To: 30 March 2023
+From: 25 November 2021 - To: 31 March 2023
 
-Total Time: 842 hrs 16 mins
+Total Time: 848 hrs 20 mins
 
-TypeScript       365 hrs 25 mins >>>>>>>>>>>--------------   43.39 %
-Other            236 hrs 42 mins >>>>>>>------------------   28.10 %
+TypeScript       370 hrs 9 mins  >>>>>>>>>>>--------------   43.63 %
+Other            236 hrs 45 mins >>>>>>>------------------   27.91 %
 ```
 
 <!--END_SECTION:waka-->
