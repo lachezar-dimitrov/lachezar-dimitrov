@@ -43,6 +43,6 @@ Go               20 hrs 43 mins  >------------------------   02.18 %
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lachezar_dimitrov&theme=dark" />
-</a>
+</a> -->
