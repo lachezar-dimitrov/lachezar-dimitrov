@@ -1,5 +1,5 @@
 - 🔭 I’m currently working in AtScale
-- 🌱 I’m currently learning Architectures
+<!-- - 🌱 I’m currently learning Architectures -->
 <!-- - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything
 - 🤔 I’m looking for help with ...
