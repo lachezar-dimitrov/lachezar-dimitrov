@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2021 - To: 07 January 2024
+From: 25 November 2021 - To: 08 January 2024
 
-Total Time: 1,271 hrs 49 mins
+Total Time: 1,272 hrs 23 mins
 
-TypeScript       544 hrs 19 mins >>>>>>>>>>>--------------   42.80 %
-Other            418 hrs 27 mins >>>>>>>>-----------------   32.90 %
-JavaScript       188 hrs 22 mins >>>>---------------------   14.81 %
+TypeScript       544 hrs 42 mins >>>>>>>>>>>--------------   42.81 %
+Other            418 hrs 27 mins >>>>>>>>-----------------   32.89 %
+JavaScript       188 hrs 22 mins >>>>---------------------   14.80 %
 JSON             38 hrs 20 mins  >------------------------   03.01 %
 Go               29 hrs 1 min    >------------------------   02.28 %
 ```
