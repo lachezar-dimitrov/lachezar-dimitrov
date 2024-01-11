@@ -26,7 +26,7 @@ JavaScript       188 hrs 23 mins >>>>---------------------   14.78 %
 JSON             38 hrs 58 mins  >------------------------   03.06 %
 Go               29 hrs 1 min    >------------------------   02.28 %
 ```
-
+![Metrics](https://metrics.lecoq.io/lachezar-dimitrov?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FSofia)
 <!--END_SECTION:waka-->
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=monokai)
