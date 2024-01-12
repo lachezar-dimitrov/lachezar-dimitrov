@@ -26,7 +26,7 @@ JavaScript       188 hrs 23 mins >>>>---------------------   14.78 %
 JSON             38 hrs 58 mins  >------------------------   03.06 %
 Go               29 hrs 1 min    >------------------------   02.28 %
 ```
-![Metrics](https://metrics.lecoq.io/lachezar-dimitrov?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FSofia)
+
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/lachezar-dimitrov?template=classic&isocalendar=1&languages=1&habits=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&traffic=false&config.timezone=Europe%2FSofia)
