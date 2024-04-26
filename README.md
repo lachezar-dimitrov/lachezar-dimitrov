@@ -28,27 +28,49 @@ Go               29 hrs 4 mins   -------------------------   01.59 %
 
 <!--END_SECTION:waka-->
 
-<div style="display: flex; flex-direction: column; justify-content: space-around; align-items: center;">
+<div>
+  <!-- First three cards maintain their original single column layout -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark&card_width=445&langs_count=10" style="width: 100%;" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&include_all_commits=true" style="width: 100%" />
   </a>
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; width: 100%;">
-    <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=monokai">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
-    </a>
-    <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=monokai">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
-    </a>
-    <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=monokai">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
-    </a>
-    <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=monokai">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
-    </a>
-  </div>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
+  </a>
+
+  <!-- New table for the last four cards to be arranged in a 2x2 grid -->
+  <table style="width: 100%;">
+    <tr>
+      <td>
+        <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=monokai">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
+        </a>
+      </td>
+      <td>
+        <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=monokai">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=monokai">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=monokai" style="width: 100%;" />
+        </a>
+      </td>
+      <td>
+        <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachezar-dimitrov&theme=monokai&utcOffset=8">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachezar-dimitrov&theme=monokai&utcOffset=8" style="width: 100%;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
+
 
 
