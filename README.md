@@ -29,14 +29,14 @@ Go               29 hrs 4 mins   -------------------------   01.59 %
 <!--END_SECTION:waka-->
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark&card_width=445&langs_count=10" style="width: 100%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&include_all_commits=true" style="width: 100%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=monokai" style="width: 100%" />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=monokai" style="width: 49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=monokai" style="width: 49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=monokai" style="width: 49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachezar-dimitrov&theme=monokai&utcOffset=8" style="width: 49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark&card_width=445&langs_count=8" style="width: 49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&include_all_commits=true" style="width: 50%" />
 </div>
 
 
