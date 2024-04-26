@@ -30,10 +30,10 @@ Go               29 hrs 4 mins   -------------------------   01.59 %
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark&card_width=445&langs_count=10" style="width: 50%; height: 180px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&layout=compact&theme=dark&card_width=445&langs_count=10" style="width: 40%; height: 180px;" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&include_all_commits=true" style="width: 50%; height: 180px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&show_icons=true&count_private=true&include_all_commits=true" style="width: 40%; height: 180px;" />
   </a>
 </div>
 
