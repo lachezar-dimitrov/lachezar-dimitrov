@@ -1,16 +1,14 @@
-- 🔭 I’m currently working in AtScale
-<!-- - 🌱 I’m currently learning Architectures -->
-<!-- - 👯 I’m looking to collaborate on anything
-- 💬 Ask me about anything
-- 🤔 I’m looking for help with ...
--
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!--📊💬Waka-Time Section / 🌐WEBSITE: https://github.com/marketplace/actions/waka-readme -->
 <div align="center">
-<h4 align="center"> 📊 This week i spent my time on: </h4>
+
+<h3>👋 Hi, I'm Lachezar Dimitrov!</h3>
+
+- 🔭 I’m currently developing cutting-edge solutions at **AtScale**.
+- 🌱 Enhancing my architectural design skills in software development.
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/lachezar-dimitrov).
+- 🚀 I’m fluent in **JavaScript, TypeScript**, and exploring **Go** and **C#**.
+- 📫 How to reach me: **[Email](mailto:your-email@example.com)**
+
+<h4>📊 This Week I Spent My Time On:</h4>
 <div width="50%">
 
 <!--START_SECTION:waka-->
@@ -25,6 +23,7 @@ TypeScript       725 hrs 40 mins >>>>>>>>>>---------------   39.71 %
 JavaScript       189 hrs 34 mins >>>----------------------   10.38 %
 JSON             42 hrs 21 mins  >------------------------   02.32 %
 Go               29 hrs 4 mins   -------------------------   01.59 %
+
 ```
 
 <!--END_SECTION:waka-->
