@@ -29,14 +29,14 @@
 <!--END_SECTION:waka -->
 
 <div style="margin: 50px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=dark" style="width: 100%" />
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=dark" style="width: 49%" /> -->
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=dark" style="width: 49%" /> -->
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=dark" style="width: 49%" /> -->
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachezar-dimitrov&theme=dark&utcOffset=3" style="width: 49%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lachezar_dimitrov&hide_border=true&layout=compact&theme=dark&langs_count=14&hide=other,json,tsconfig,bash,xml" style="width: 100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&hide_border=true&layout=compact&theme=dark&card_width=445&langs_count=12" style="width: 100%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" style="width: 100%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=transparent" style="width: 100%" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=transparent" style="width: 49%" /> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=transparent" style="width: 49%" /> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=transparent" style="width: 49%" /> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachezar-dimitrov&theme=transparent&utcOffset=3" style="width: 49%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lachezar_dimitrov&hide_border=true&card_width=500&layout=compact&theme=transparent&langs_count=14&hide=other,json,tsconfig,bash,xml" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&hide_border=true&layout=compact&theme=transparent&card_width=500&langs_count=14" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=transparent&hide_border=true&show_icons=true&count_private=true&card_width=500&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="width: 100%" /> 
 </div>
 
 
