@@ -30,13 +30,13 @@
 
 <div style="margin: 50px">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachezar-dimitrov&theme=dark" style="width: 100%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=dark" style="width: 49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=dark" style="width: 49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=dark" style="width: 49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachezar-dimitrov&theme=dark&utcOffset=3" style="width: 49%" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lachezar-dimitrov&theme=dark" style="width: 49%" /> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lachezar-dimitrov&theme=dark" style="width: 49%" /> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachezar-dimitrov&theme=dark" style="width: 49%" /> -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachezar-dimitrov&theme=dark&utcOffset=3" style="width: 49%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lachezar_dimitrov&hide_border=true&layout=compact&theme=dark&langs_count=14&hide=other,json,tsconfig,bash,xml" style="width: 100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&hide_border=true&layout=compact&theme=dark&card_width=445&langs_count=8" style="width: 49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" style="width: 50%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachezar-dimitrov&hide_border=true&layout=compact&theme=dark&card_width=445&langs_count=12" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" style="width: 100%" /> 
 </div>
 
 
