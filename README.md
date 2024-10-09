@@ -39,4 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lachezar-dimitrov&theme=transparent&hide_border=true&custom_title=GitHub%20Stats&show_icons=true&count_private=true&card_width=500&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="width: 100%" />
 </div> -->
 
--->
